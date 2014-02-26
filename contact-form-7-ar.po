@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form 7 - Arabic v.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-06 18:43+0900\n"
+"PO-Revision-Date: 2013-05-29 20:47+0400\n"
+"Last-Translator: Yaser Maadan <yaser@englize.com>\n"
+"Language-Team: Englize.com - Yaser Maadan <yaser@englize.com>\n"
+"Language: ar_AE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: contact-form-7\n"
+
+msgid ""
+"%1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s with "
+"no alternative available."
+msgstr ""
+"%1$s تم <strong>إهماله</strong>منذ إصدار الإضافة رقم %2$s ولا توجد بدائل "
+"متوفرة."
+
+msgid ""
+"%1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use "
+"%3$s instead."
+msgstr ""
+"%1$s تم <strong>إهماله</strong>منذ إصدار الإضافة رقم %2$s! استخدم %3$s كبديل."
+
+msgid "%s ago"
+msgstr "%s مضت"
+
+msgid "(required)"
+msgstr "(مطلوب)"
+
+msgid "(select language)"
+msgstr "(أختيار اللغة)"
+
+msgid "* One choice per line."
+msgstr "* اختيار واحد لكل سطر"
+
+msgid "* That means visitor who accepts the term unchecks it."
+msgstr ""
+"* النجمة تعني أن الزوار الذين وافقوا على الشروط لم يقوموا بتحديد الخيار."
+
+msgid "* quiz|answer (e.g. 1+1=?|2)"
+msgstr "* سؤال|جواب (على سبيل المثال 1+1=?|2)"
+
+msgid ""
+"<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> "
+"Please <a href=\"%3$s\">update WordPress</a> first."
+msgstr ""
+"<strong>Contact Form 7 %1$s تتطلب ووردبريس %2$s أو أعلى. </strong> رجاءاً <a "
+"href=\"%3$s\">قم بتحديث ووردبريس</a> أولاً."
+
+msgid ""
+"<strong>Jetpack may cause problems for other plugins in certain cases.</"
+"strong> <a href=\"%s\" target=\"_blank\">See how to avoid it.</a>"
+msgstr ""
+"<strong>جيت باك قد تسبب مشاكل مع إضافات أخرى وذلك في بعض الحالات./strong> <a "
+"href=\"%s\" target=\"_blank\">أنظر كيف تتخلص من هذه المشكلة!</a>"
+
+msgid "Acceptable file types"
+msgstr "أنواع الملفات المقبولة"
+
+msgid "Acceptance"
+msgstr "قبول"
+
+msgid "Add New"
+msgstr "أضف"
+
+msgid "Additional Settings"
+msgstr "الإعدادات الإضافية"
+
+msgid "Additional headers:"
+msgstr "ترويسة إضافية:"
+
+msgid "Afrikaans"
+msgstr "الأفريكانية"
+
+msgid "Akismet"
+msgstr "أكسميت"
+
+msgid "Albanian"
+msgstr "الألبانية"
+
+msgid "Allow multiple selections?"
+msgstr "السماح للإختيارات المُتعددة؟"
+
+msgid "And, put this code into the File Attachments field below."
+msgstr "و أضف هذا الكود بداخل حقل الملفات المُرفقة في الأسفل."
+
+msgid "And, put this code into the Mail fields below."
+msgstr "و أضف هذا الكود بداخل حقول البريد في الأسفل."
+
+msgid "Arabic"
+msgstr "العربيّة"
+
+msgid "Armenian"
+msgstr "الأرمينية"
+
+msgid "Author"
+msgstr "الكاتب"
+
+msgid "Azerbaijani"
+msgstr "الأذربيجانية"
+
+msgid "Background color"
+msgstr "لون الخلفية"
+
+msgid "Bangla"
+msgstr "البنغالية"
+
+msgid "Basque"
+msgstr "باسكي"
+
+msgid "Belarusian"
+msgstr "البيلاروسية"
+
+msgid "Bosnian"
+msgstr "البوسنيّة"
+
+msgid "Brazilian Portuguese"
+msgstr "البرتغالية البرازيلية"
+
+msgid "Bulgarian"
+msgstr "البلغاريّة"
+
+msgid "CAPTCHA"
+msgstr "التحقق البشري"
+
+msgid "Catalan"
+msgstr "كاتالاني"
+
+msgid "Checkboxes"
+msgstr "صناديق الأختيار"
+
+msgid "Chinese (Simplified)"
+msgstr "الصينية المُبسطة"
+
+msgid "Chinese (Traditional)"
+msgstr "الصينية (التقليدية)"
+
+msgid "Choices"
+msgstr "اختيارات"
+
+msgid "Contact"
+msgstr "مراسلة"
+
+msgid "Contact Form"
+msgstr "إستمارة المراسلة"
+
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+msgid "Contact Form 7 needs your support. Please donate today."
+msgstr "Contact Form 7 يحتاج إلى دعمك. تبرع لنا اليوم!"
+
+msgid "Contact Forms"
+msgstr "إستمارات المراسلة"
+
+msgid "Contact form %d"
+msgstr "استمارة المراسلة %d"
+
+msgid "Contact form created."
+msgstr "تم إنشاء إستمارة المراسلة."
+
+msgid "Contact form deleted."
+msgstr "تم حذف الإستمارة."
+
+msgid "Contact form saved."
+msgstr "تم حفظ الإستمارة."
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Copy this code and paste it into the form left."
+msgstr "أنسخ هذا الكود وألصقه بداخل الإستمارة ليظهر لديك."
+
+msgid ""
+"Copy this code and paste it into your post, page or text widget content."
+msgstr ""
+"أنسخ هذا الكود وقم بلصقه بداخل موضوعك، صفحتك، أو حتى في المربعات الجانبيّة."
+
+msgid "Croatian"
+msgstr "الكرواتية"
+
+msgid "Czech"
+msgstr "التشيكية"
+
+msgid "Danish"
+msgstr "الدنماركيّة"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "Date format seems invalid."
+msgstr "صيغة التاريخ تبدو غير صحيحة."
+
+msgid "Date format that the sender entered is invalid"
+msgstr "صيغة التاريخ الذي أدخلها المُرسل غير صحيحة"
+
+msgid "Date is earlier than minimum limit"
+msgstr "التاريخ أقدم من الحد الأدنى"
+
+msgid "Date is later than maximum limit"
+msgstr "التاريخ أبعد من الحد الأقصى"
+
+msgid "Default value"
+msgstr "القيمة الإفتراضيّة"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Docs"
+msgstr "مستندات"
+
+msgid "Donate"
+msgstr "تبرّع"
+
+msgid "Drop-down menu"
+msgstr "قائمة منسدلة"
+
+msgid "Dutch"
+msgstr "الهولندية"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Edit &#8220;%s&#8221;"
+msgstr "تحرير &#8220;%s&#8221;"
+
+msgid "Edit Contact Forms"
+msgstr "تحرير إستمارات المراسلة"
+
+msgid "Email"
+msgstr "بريدك الإلكتروني"
+
+msgid "Email address seems invalid."
+msgstr "يبدو أن البريد الإلكتروني خاطئ"
+
+msgid "Email address that the sender entered is invalid"
+msgstr "البريد الإلكتروني الذي قام بإدخاله المرسل غير صحيح"
+
+msgid "English"
+msgstr "الإنجليزيّة"
+
+msgid "Error in deleting."
+msgstr "حدث خطأ أثناء الحذف."
+
+msgid "Esperanto"
+msgstr "لغة إسبرانتو الدولية"
+
+msgid "Estonian"
+msgstr "الاستونية"
+
+msgid "FAQ"
+msgstr "الأسئلة الشائعة"
+
+msgid ""
+"Failed to send your message. Please try later or contact the administrator "
+"by another method."
+msgstr ""
+"فشل في إرسال الرسالة. الرجاء المحاولة مجدداً أو مخاطبة المسؤول عن الموقع "
+"بطريقة أخرى مثل الفيس بوك أو التويتر."
+
+msgid "Failed to upload file."
+msgstr "فشل في رفع الملف"
+
+msgid "Failed to upload file. Error occurred."
+msgstr "خطأ في رفع الملف."
+
+msgid "File attachments:"
+msgstr "الملفات المُرفقة:"
+
+msgid "File size limit"
+msgstr "الحد الأقصى لحجم الملف"
+
+msgid "File upload"
+msgstr "رفع ملف"
+
+msgid "Finnish"
+msgstr "الفنلنديّة"
+
+msgid "For image"
+msgstr "للصورة"
+
+msgid "For input field"
+msgstr "لحقل الإدخال الخاص بالتحقق البشري"
+
+msgid "Foreground color"
+msgstr "لون المقدمة"
+
+msgid "Form"
+msgstr "استمارة"
+
+msgid "French"
+msgstr "الفرنسية"
+
+msgid "From:"
+msgstr "من:"
+
+msgid "From: %s"
+msgstr "من: %s"
+
+msgid "Galician"
+msgstr "الجاليكية"
+
+msgid "Generate Tag"
+msgstr "توليد وسم"
+
+msgid "Georgian"
+msgstr "الجورجيّة"
+
+msgid "German"
+msgstr "الألمانيّة"
+
+msgid "Greek"
+msgstr "اليونانية"
+
+msgid "Hebrew"
+msgstr "العبرية"
+
+msgid "Hindi"
+msgstr "الهنديّة"
+
+msgid "Hungarian"
+msgstr "الهنجاريّة"
+
+msgid "Image settings"
+msgstr "إعدادات الصورة"
+
+msgid "Image size"
+msgstr "حجم الصورة"
+
+msgid "Indonesian"
+msgstr "الأندونيسية"
+
+msgid "Input field settings"
+msgstr "إعدادات حقل الإدخال"
+
+msgid "Insert a blank item as the first option?"
+msgstr "إدخال عنصر فارغ كأول خيار؟"
+
+msgid "Irish"
+msgstr "الإيرلندية"
+
+msgid "Italian"
+msgstr "الإيطاليّة"
+
+msgid "Japanese"
+msgstr "اليابانيّة"
+
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr "مجرد إضافة إتصل بنا أخرى. بسيطة لكنها مرنة."
+
+msgid "Korean"
+msgstr "الكوريّة"
+
+msgid "Label"
+msgstr "وسم"
+
+msgid "Large"
+msgstr "كبير"
+
+msgid "Latvian"
+msgstr "اللاتيفية"
+
+msgid "Lithuanian"
+msgstr "اللتوانيّة"
+
+msgid "Macedonian"
+msgstr "المقدونية"
+
+msgid "Mail"
+msgstr "البريد الأول"
+
+msgid "Mail (2)"
+msgstr "البريد الثاني"
+
+msgid "Make checkboxes exclusive?"
+msgstr "منع الإختيار المُـتعدد؟"
+
+msgid "Make this checkbox checked by default?"
+msgstr "جعل هذا الخيّار مفعّل تلقائياً؟"
+
+msgid "Make this checkbox work inversely?"
+msgstr "جعل هذا الخيار يعمل بشكل عكسي؟"
+
+msgid "Malay"
+msgstr "الملايو"
+
+msgid "Malayalam"
+msgstr "المالايالامية"
+
+msgid "Maltese"
+msgstr "المالطية"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Message Body:"
+msgstr "الرسالة:"
+
+msgid "Message body:"
+msgstr "الرسالة:"
+
+msgid "Messages"
+msgstr "الرسائل"
+
+msgid "Name"
+msgstr "الأسم"
+
+msgid "Norwegian"
+msgstr "النرويجيّة"
+
+msgid "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed."
+msgstr ""
+"ملاحظة: لإستخدام التحقق البشري، عليك أن تقوم بتنزيل إضافة Really Simple "
+"CAPTCHA."
+
+msgid "Number (slider)"
+msgstr "الرقم (اختيار جرافيكي)"
+
+msgid "Number (spinbox)"
+msgstr "الرقم (صندوق متحرك)"
+
+msgid "Number format seems invalid."
+msgstr "الرقم أصغر من الحد الأدنى"
+
+msgid "Number format that the sender entered is invalid"
+msgstr "صيغة الرقم تبدو غير صحيحة."
+
+msgid "Number is larger than maximum limit"
+msgstr "الرقم أكبر من الحد الأقصى"
+
+msgid "Number is smaller than minimum limit"
+msgstr "الرقم أصغر من الحد الأدنى"
+
+msgid "Old code is also available."
+msgstr "الكود القديم لازال متوفراً."
+
+msgid "Or"
+msgstr "أو"
+
+msgid "Persian"
+msgstr "الفارسيّة"
+
+msgid "Please accept the terms to proceed."
+msgstr "الرجاء الموافقة على الشروط لإكمال العمليّة."
+
+msgid "Please fill the required field."
+msgstr "الرجاء أكمل الحقول الناقصة"
+
+msgid "Polish"
+msgstr "البولنديّة"
+
+msgid "Portuguese"
+msgstr "البرتغاليّة"
+
+msgid "Put a label first, a checkbox last?"
+msgstr "جعل الأسم في الأعلى والخيار في الأسفل؟"
+
+msgid "Quiz"
+msgstr "سؤال"
+
+msgid "Quizzes"
+msgstr "الأسئلة"
+
+msgid "Radio buttons"
+msgstr "الأزرار الأختيار (Radio)"
+
+msgid "Required field?"
+msgstr "حقل مطلوب؟"
+
+msgid "Romanian"
+msgstr "الرومانيّة"
+
+msgid "Russian"
+msgstr "الروسيّة"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Search Contact Forms"
+msgstr "بحث إستمارات المراسلة"
+
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "نتائج البحث لـ &#8220;%s&#8221;"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Sender doesn't enter the correct answer to the quiz"
+msgstr "لم تقم بإدخال إجابة صحيحة للإختبار."
+
+msgid "Sender's message was failed to send"
+msgstr "فشل في إرسال الرسالة"
+
+msgid "Sender's message was sent successfully"
+msgstr "تم إرسال الرسالة بنجاح"
+
+msgid "Sending ..."
+msgstr "جاري الإرسال ..."
+
+msgid "Serbian"
+msgstr "الصربيّة"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Shortcode"
+msgstr "الشفرات المختصرة"
+
+msgid "Sinhala"
+msgstr "السنهالية"
+
+msgid "Slovak"
+msgstr "السلوفاكيّة"
+
+msgid "Slovene"
+msgstr "السلوفينيّة"
+
+msgid "Small"
+msgstr "صغير"
+
+msgid "Spanish"
+msgstr "الأسبانيّة"
+
+msgid "Subject"
+msgstr "العنوان"
+
+msgid "Subject:"
+msgstr "العنوان:"
+
+msgid "Subject: %s"
+msgstr "العنوان: %s"
+
+msgid "Submission was referred to as spam"
+msgstr "المدخلات الذي أرسلتها أعتبرت على أنها سبام"
+
+msgid "Submit button"
+msgstr "زر الإرسال"
+
+msgid "Support"
+msgstr "الدعم الفني"
+
+msgid "Swedish"
+msgstr "السويديّة"
+
+msgid "Tagalog"
+msgstr "التاجالوجية"
+
+msgid "Tamil"
+msgstr "التاميل"
+
+msgid "Telephone number"
+msgstr "رقم الهاتف"
+
+msgid "Telephone number seems invalid."
+msgstr "يبدو أن رقم الهاتف غير صحيح"
+
+msgid "Telephone number that the sender entered is invalid"
+msgstr "رقم الهاتف الذي أدخله المرسل غير صحيحاً"
+
+msgid "Text area"
+msgstr "صندوق النص"
+
+msgid "Text field"
+msgstr "حقل النص"
+
+msgid "Thai"
+msgstr "التايلنديّة"
+
+msgid "The code that sender entered does not match the CAPTCHA"
+msgstr "الكود الذي قمت بإدخاله في التحقق البشري غير مُتطابق"
+
+msgid "There are terms that the sender must accept"
+msgstr "يوجد حقل خاص بشروط الخدمة، يجب على المرسل الموافقة عليها."
+
+msgid "There is a field that the sender must fill in"
+msgstr "هُناك حقل يتوجب على المُرسل تعبئته"
+
+msgid ""
+"This contact form contains CAPTCHA fields, but the necessary libraries (GD "
+"and FreeType) are not available on your server."
+msgstr ""
+"هذه الإستمارة الخاصة بالتراسل تحتوي على حقل التحقق البشري، لكن مكتبة الصور "
+"GD غير متوفرة على السيرفر كما يبدو."
+
+msgid ""
+"This contact form contains CAPTCHA fields, but the temporary folder for the "
+"files (%s) does not exist or is not writable. You can create the folder or "
+"change its permission manually."
+msgstr ""
+"هذه الإستمارة الخاصة بالتراسل تحتوي على حقل التحقق البشري، لكن المجلد المؤقت "
+"الخاص بالملفات (%s) غير موجود أو غير قابل للكتابة عليه. عليك إنشاء مجلد جديد "
+"أو تغيير صلاحياته يدوياً إن وجد."
+
+msgid ""
+"This contact form contains file uploading fields, but the temporary folder "
+"for the files (%s) does not exist or is not writable. You can create the "
+"folder or change its permission manually."
+msgstr ""
+"هذه الإستمارة تحتوي على حقول لرفع الملفات، لكن المجلد المؤقت الخاص بالملفات "
+"(%s) غير موجود أو غير قابل للكتابة عليه. عليك أن تنشئ مجلد جديد أو إعطاء "
+"التصاريح بشكل يدوي لجعله قابل للكتابة."
+
+msgid "This date is too early."
+msgstr "التاريخ مبكر جداً."
+
+msgid "This date is too late."
+msgstr "التاريخ بعيد جداً."
+
+msgid "This field requires author's URL"
+msgstr "إنشاء حقل لطلب رابط موقع مُرسل الرسالة"
+
+msgid "This field requires author's email address"
+msgstr "إنشاء حقل لطلب البريد الإلكتروني لمرسل الرسالة"
+
+msgid "This field requires author's name"
+msgstr "إنشاء حقل لطلب أسم مرسل الرسالة"
+
+msgid "This file is too large."
+msgstr "هذا الملف كبير جداً"
+
+msgid "This file type is not allowed."
+msgstr "هذا النوع من الملفات غير مسموح به"
+
+msgid "This mail is sent via contact form on %1$s %2$s"
+msgstr "هذه الرسالة أرسلت من %1$s %2$s"
+
+msgid "This number is too large."
+msgstr "الرقم كبير جداً."
+
+msgid "This number is too small."
+msgstr "الرقم صغير جداً"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid ""
+"To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/"
+"really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+msgstr ""
+"لإستخدام التحقق البشري، عليك أن تقوم بتنزيل إضافة <a href=\"http://wordpress."
+"org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a>."
+
+msgid "To:"
+msgstr "إلى:"
+
+msgid "Turkish"
+msgstr "التركيّة"
+
+msgid "URL"
+msgstr "الرابط التشعبي"
+
+msgid "URL seems invalid."
+msgstr "يبدو أن الرابط غير صحيح"
+
+msgid "URL that the sender entered is invalid"
+msgstr "الرابط الذي أدخله المُرسل يبدو غير صحيحاً"
+
+msgid "Ukrainian"
+msgstr "الأوكرانيّة"
+
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+msgid "Uploaded file is not allowed file type"
+msgstr "صيغة الملف المرفوع غير مسموح بها"
+
+msgid "Uploaded file is too large"
+msgstr "الملف المرفوع كبير جداً"
+
+msgid "Uploading a file fails for PHP error"
+msgstr "فشل في رفع الملف بسبب خطأ في PHP"
+
+msgid "Uploading a file fails for any reason"
+msgstr "فشل في رفع الملف لسبب ما."
+
+msgid "Use HTML content type"
+msgstr "إستخدام HTML في الرسالة"
+
+msgid "Use mail (2)"
+msgstr "استخدم البريد الثاني"
+
+msgid "Use the default language (%s)"
+msgstr "اللغة الإفتراضية (%s)"
+
+msgid "Use this text as placeholder?"
+msgstr "أستخدام النص كعلامة مائية لحفظ الحقوق؟"
+
+msgid "Validation errors occurred"
+msgstr "حدث خطأ أثناء التحقق"
+
+msgid ""
+"Validation errors occurred. Please confirm the fields and submit it again."
+msgstr "حدث خطأ أثناء التحقق. الرجاء التأكد من الحقول ومعاودة الإرسال مجدداً."
+
+msgid "Vietnamese"
+msgstr "الفيتناميّة"
+
+msgid "Wrap each item with <label> tag?"
+msgstr ""
+"جعل اسامي الأختيارات بنفس لون وشكل الأختيارات الدائرية، أي ضم الخيارات بوسم "
+"واحد."
+
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+msgid ""
+"You are about to delete this contact form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"أنت على وشك حذف إستمارة المراسلة هذه. \n"
+"\"إلغاء\" لإلغاء العملية، \"موافق\" للحذف."
+
+msgid "You are not allowed to delete this item."
+msgstr "غير مصرح الحذف"
+
+msgid "You are not allowed to edit this item."
+msgstr "غير مصرح لك التعديل"
+
+msgid "Your Email"
+msgstr "بريدك الإلكتروني"
+
+msgid "Your Message"
+msgstr "رسالتك"
+
+msgid "Your Name"
+msgstr "أسمك الكريم"
+
+msgid "Your answer is not correct."
+msgstr "إجابتك غير صحيحة."
+
+msgid "Your contribution is needed for making this plugin better."
+msgstr "مشاركتك مطلوبة لجعل الإضافة تتطور بشكل أفضل مستقبلا ً."
+
+msgid "Your entered code is incorrect."
+msgstr "لقد قمت بإدخال كود خاطئ."
+
+msgid "Your message was sent successfully. Thanks."
+msgstr "تم إرسال الرسالة بنجاح. شكراً"
+
+msgid "bytes"
+msgstr "بايت"
+
+msgid "http://contactform7.com/docs/"
+msgstr "http://contactform7.com/docs/"
+
+msgid "http://contactform7.com/donate/"
+msgstr "http://contactform7.com/donate/"
+
+msgid "http://contactform7.com/faq/"
+msgstr "http://contactform7.com/faq/"
+
+msgid "http://contactform7.com/support/"
+msgstr "http://contactform7.com/support/"
+
+msgid "optional"
+msgstr "اختياري"
